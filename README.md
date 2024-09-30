@@ -1,3 +1,1 @@
-npm i react-bootstrap bootstrap xlsx file-saver react-select
-
-npm install react-scripts --save
+# ScheduleTable - เว็บจัดตารางสอนอาจารย์ด้วย ReactJS
